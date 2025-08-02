@@ -57,20 +57,6 @@ npm start
 4. Environment Variables
 Create a .env file in both /backend and /frontend folders:
 
-✅ Example: backend/.env
-
-SPOTIFY_CLIENT_ID=your_spotify_client_id
-SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-TMDB_API_KEY=your_tmdb_api_key
-GEMINI_API_KEY=your_gemini_api_key
-JWT_SECRET_KEY=your_jwt_secret
-✅ Example: frontend/.env
-
-REACT_APP_BACKEND_URL=http://localhost:8000
-REACT_APP_SPOTIFY_ID=your_spotify_client_id
-
-🎥 Demo & Screenshots
-Add screenshots or a demo GIF here (homepage, mood detection, recommendations, AI chat, etc.)
 
 ✨ Contributions
 We welcome your contributions!
